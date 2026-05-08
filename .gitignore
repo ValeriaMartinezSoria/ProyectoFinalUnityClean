@@ -1,0 +1,28 @@
+Library/ 
+Library/ 
+Logs/ 
+Temp/ 
+UserSettings/ 
+Packages/ 
+ProjectSettings/ 
+
+# Visual Studio / IDE
+.vs/
+*.csproj
+*.sln
+obj/
+
+
+Build/
+Builds/
+JuegoFinal/
+
+"Assets/LeartesStudios/CoffeeShopInterior/Built-In/CoffeeShopBuiltIn.unitypackage" 
+"Assets/LeartesStudios/CoffeeShopInterior/URP/CoffeeShopURP.unitypackage" 
+A s s e t s / L e a r t e s S t u d i o s / 
+ 
+
+
+*.exe
+*.zip
+Assets/StreamingAssets/*.mp4
